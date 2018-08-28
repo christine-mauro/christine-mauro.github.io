@@ -10,8 +10,14 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: mailto:cmm2212@cumc.columbia.edu
+    - icon: ai-google-scholar-square ai-lg
+      href: https://scholar.google.com/citations?user=6AWzLpgAAAAJ&hl=en
+    - icon: ai-cv ai-lg
+      href: downloads/cmauro_spirecv_06_2018_noann.pdf
+   # - icon: fa-github fa-lg
+  #    href: http://github.com/christine-mauro/
 output:
-  html_document
+  html_document:
+    theme: cosmo 
+    css: styles.css

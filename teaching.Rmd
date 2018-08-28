@@ -2,6 +2,9 @@
 title: "Teaching"
 ---
 
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css">
+
 ### About this site
 
 Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
