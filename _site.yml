@@ -1,14 +1,15 @@
-name: "Yay internet!"
+name: "Christine Mauro"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "Research"
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "About"
+    - text: "Personal"
       href: about.html
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:cmm2212@cumc.columbia.edu
     - icon: ai-google-scholar-square ai-lg
@@ -19,5 +20,7 @@ navbar:
   #    href: http://github.com/christine-mauro/
 output:
   html_document:
-    theme: cosmo 
-    css: styles.css
+    theme: journal 
+    include:
+      after_body: footer.html
+    css: styles2.css
