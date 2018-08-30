@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Personal"
 output:
   html_document:
     includes:
@@ -9,4 +9,9 @@ output:
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<br><img src="images/abby.jpg" alt="abby" style="width:40%"><br>
 
+
+* I enjoy taking my Shih-Tzu, Abby, for daily walks.  
+* I have been taking [Pure Barre](http://purebarre.com/) classes for over three years and am close to my 500 class milestone!  
+* I love to read and have co-organized a [book club](https://www.meetup.com/Fairfield-20s-and-30s-Womens-Social-Book-Club-Meetup/) for the last several years. You can find me on goodreads [here](https://www.goodreads.com/user/show/27327534-christine).

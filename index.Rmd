@@ -9,7 +9,7 @@ output:
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Assistant Professor of Biostatistics at  
+Assistant Professor of Biostatistics at <br>
 Columbia University Mailman School of Public Health
 
 <br><img src="images/cm1.jpg" alt="christine" style="width:25%"><br>
@@ -23,7 +23,7 @@ My current research interests include the analysis of clinical trials, longitudi
     
 #### Contact Information
 
-Christine Mauro, Ph.D.  
+Christine Mauro, PhD  
 [Department of Biostatistics](http://www.mailman.columbia.edu/academic-departments/biostatistics)  
 [Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/)  
 722 West 168th Street, Room 643  
