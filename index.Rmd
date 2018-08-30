@@ -4,12 +4,13 @@ output:
   html_document:
     includes:
       in_header: ga_script.html
+      after_body: footer.html
 ---
 
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Assistant Professor of Biostatistics at <br>
+[Assistant Professor of Biostatistics](https://www.mailman.columbia.edu/people/our-faculty/cmm2212) at <br>
 Columbia University Mailman School of Public Health
 
 <br><img src="images/cm1.jpg" alt="christine" style="width:25%"><br>
@@ -17,7 +18,7 @@ Columbia University Mailman School of Public Health
 ####About 
 I obtained my BS in Mathematics from [Fairfield University](https://www.fairfield.edu/) in 2008. I obtained my MS (2009) and PhD (2014) in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics). My dissertation was advised by [Yuanjia Wang](http://blogs.cuit.columbia.edu/yw2016/) and focused on empirically deriving diagnostic rules for psychiatric disorders.
 
-My current research interests include the analysis of clinical trials, longitudinal data analysis, statistical learning techniques, and the application of statistics to problems in mental health and health policy research.
+My current research interests include the analysis of clinical trials, longitudinal data analysis, statistical learning techniques, and the application of statistics to problems in mental health and health policy research. I am also very interested in teaching Biostatistics in the health sciences, specifically to a non-mathematically trained audience.
 
 <br>
     
