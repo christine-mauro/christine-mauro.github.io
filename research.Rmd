@@ -10,5 +10,6 @@ output:
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+For a full list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=6AWzLpgAAAAJ&hl=en) page.
 
 
