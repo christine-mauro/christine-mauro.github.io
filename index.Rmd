@@ -11,7 +11,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 [Assistant Professor of Biostatistics](https://www.mailman.columbia.edu/people/our-faculty/cmm2212) at <br>
-Columbia University Mailman School of Public Health
+Columbia University Mailman School of Public Health 
 
 <br><img src="images/cm1.jpg" alt="christine" style="width:25%"><br>
 

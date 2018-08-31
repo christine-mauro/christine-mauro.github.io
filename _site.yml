@@ -16,8 +16,8 @@ navbar:
       href: https://scholar.google.com/citations?user=6AWzLpgAAAAJ&hl=en
     - icon: ai-cv ai-lg
       href: downloads/cmauro_spirecv_06_2018_noann.pdf
-   # - icon: fa-github fa-lg
-  #    href: http://github.com/christine-mauro/
+    - icon: fa-github fa-lg
+      href: http://github.com/christine-mauro/
 output:
   html_document:
     theme: journal 
