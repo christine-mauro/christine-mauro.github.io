@@ -13,7 +13,7 @@ output:
 [Assistant Professor of Biostatistics](https://www.mailman.columbia.edu/people/our-faculty/cmm2212) at <br>
 Columbia University Mailman School of Public Health 
 
-<br><img src="images/cm1.jpg" alt="christine" style="width:25%"><br>
+<br><img src="images/christine-beige-background.png" alt="christine" style="width:25%"><br>
 
 ####About 
 I obtained my BS in Mathematics from [Fairfield University](https://www.fairfield.edu/) in 2008. I obtained my MS (2009) and PhD (2014) in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics). My dissertation was advised by [Yuanjia Wang](http://blogs.cuit.columbia.edu/yw2016/) and focused on empirically deriving diagnostic rules for psychiatric disorders.
