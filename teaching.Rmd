@@ -14,15 +14,16 @@ output:
 
 ## Current courses
 
-Fall 2018: Research Methods and Applications: Quantitative Foundations  
+* Summer 2019: Writing a Successful NIH Grant Application (co-taught, 25 students) 
 
 <br>
 
 ## Past courses
+* Spring 2016 - 2019: Analysis of Categorical Data (170-200 students)  
+
+* Fall 2018: Research Methods and Applications: Quantitative Foundations  
 
 * Summer 2017, 2018: Writing a Successful NIH Grant Application (co-taught, 30 students)  
-
-* Spring 2016, 2017, 2018: Analysis of Categorical Data (170-200 students)  
 
 * Summer 2010, 2011, 2012: Introduction to Biostatistical Methods (30-45 students) 
 
