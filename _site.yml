@@ -18,6 +18,8 @@ navbar:
       href: downloads/cmauro_spirecv_10_2018_nopersonaldetails.pdf
     - icon: fa-github fa-lg
       href: http://github.com/christine-mauro/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/christinemauro5
 output:
   html_document:
     theme: journal 
