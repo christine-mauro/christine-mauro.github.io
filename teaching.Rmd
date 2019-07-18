@@ -10,7 +10,11 @@ output:
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<br><img src="images/group.jpg" alt="group" style="width:50%"><br>
+## Spring 2019 Teaching Team
+<br><img src="images/group_2019.jpg" alt="group" style="width:50%"><br>
+
+## Spring 2018 Teaching Team
+<br><img src="images/group_2018.jpg" alt="group" style="width:50%"><br>
 
 ## Current courses
 
@@ -34,6 +38,8 @@ output:
 2018:
 
 * *Using Survey Data to Understand the Impact of Medical Marijuana Laws.* Oral presentation at workshop on Epidemiology and Public Health Research Methods, College on Problems of Drug Dependence Annual Meeting, San Diego, CA. [Slides](downloads/mauro_cpdd_june2018.pdf)
+
+* *Getting Started with R (Part 1 and Part 2).* Mini-course sponsored by the Irving Institute for Clinical and Translational Research - Biostatistics, Epidemiology and Research Design Resource at Columbia University [(BERD)](http://irvinginstitute.columbia.edu/resources/biostatistics.html), New York, NY. [Slides Part 1](downloads/R_Minicourse1.pdf); [Slides Part 2](downloads/R_Minicourse2.pdf)
 
 * *Getting Started with SAS (Part 1 and Part 2).* Mini-course sponsored by the Irving Institute for Clinical and Translational Research - Biostatistics, Epidemiology and Research Design Resource at Columbia University [(BERD)](http://irvinginstitute.columbia.edu/resources/biostatistics.html), New York, NY. [Slides Part 1](downloads/SAS_Minicourse1.pdf); [Slides Part 2](downloads/SAS_Minicourse2.pdf)
 
