@@ -10,24 +10,19 @@ output:
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Spring 2019 Teaching Team
-<br><img src="images/group_2019.jpg" alt="group" style="width:50%"><br>
-
-## Spring 2018 Teaching Team
-<br><img src="images/group_2018.jpg" alt="group" style="width:50%"><br>
-
 ## Current courses
 
-* Summer 2019: Writing a Successful NIH Grant Application (co-taught, 25 students) 
+* Spring 2016 - PRESENT: Analysis of Categorical Data (170-220 students)  
+
+* Fall 2018 - PRESENT: Research Methods and Applications: Quantitative Foundations (110-150 students)
+
+ * Fall 2020 - PRESENT: Statistical Practices and Research for Interdisciplinary Science (SPRIS) II   (4-6 students)
 
 <br>
 
 ## Past courses
-* Spring 2016 - 2019: Analysis of Categorical Data (170-200 students)  
 
-* Fall 2018: Research Methods and Applications: Quantitative Foundations (110 students)
-
-* Summer 2017, 2018: Writing a Successful NIH Grant Application (co-taught, 30 students)  
+* Summer 2017 - 2021: Writing a Successful NIH Grant Application (co-taught, 30 students)  
 
 * Summer 2010, 2011, 2012: Introduction to Biostatistical Methods (30-45 students) 
 
@@ -50,3 +45,10 @@ output:
 2015:
 
 * *Logistic Regression with SAS.* Lecture at the NYC DOHMH Cross-Cutting Data Analysis Meeting. [Slides](downloads/cmauro_LogRegres_SAS.pdf)
+
+
+## Spring 2019 Teaching Team
+<br><img src="images/group_2019.jpg" alt="group" style="width:50%"><br>
+
+## Spring 2018 Teaching Team
+<br><img src="images/group_2018.jpg" alt="group" style="width:50%"><br>
